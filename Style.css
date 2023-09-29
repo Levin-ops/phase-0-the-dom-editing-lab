@@ -1,0 +1,19 @@
+*
+{
+color: rgb(0, 76, 255);
+}
+body
+{
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+p a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
